@@ -1,2 +1,2 @@
-# Simple_Interest_Calculator
-Simple interest calculator Assignment 
+# github_final_project
+Github Final Project Assignment 
